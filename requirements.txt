@@ -1,0 +1,12 @@
+langchain
+langchain-text-splitters
+langchain-huggingface
+qdrant-client
+sentence-transformers
+pdf2image
+pytesseract
+streamlit
+pypdf
+langchain-qdrant
+langchain-groq
+python-dotenv
