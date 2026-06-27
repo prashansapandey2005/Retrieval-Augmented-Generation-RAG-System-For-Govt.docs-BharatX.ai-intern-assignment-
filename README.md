@@ -1,4 +1,4 @@
-# Retrieval-Augmented-Generation-RAG-System-For-Govt.docs-BharatX.ai-intern-assignment-
+# Retrieval-Augmented-Generation-RAG-System-For-Govt.docs-
 <div align="center">
   <h1>🏛️ Government Legal Document RAG Pipeline</h1>
   <p><i>A production-grade, supersession-aware Retrieval-Augmented Generation system.</i></p>
